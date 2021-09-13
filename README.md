@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Og Ramos | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Og Ramos | Website" width="22px" src="https://www.vhv.rs/dpng/d/39-396156_globe-white-icon-png-transparent-png.png" />][website]
 [<img align="left" alt="Og Ramos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Og Ramos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
