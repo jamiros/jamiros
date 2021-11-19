@@ -3,7 +3,7 @@
 ## I'm a Data Architect, BI Developer, Tinkerer, Writer and Teacher!!
 
 - 🌱  I’m currently working on my physical and mental health.
-- 💼  I'm just starting at 🍌 Bananatag + 👔 Staffbase.
+- 💼  I'm working at 🍌 Bananatag soon to be 👔 Staffbase.
 - 📔  I'm publishing every Saturday on my Data Engineer Blog.
 - 💻  I'm working on a Python ETL tool and Learning Resources for Data Engineers.
 
