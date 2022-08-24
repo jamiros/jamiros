@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/jamiros" target="blank"><img src="https://img.shields.io/twitter/follow/jamiros?logo=twitter&style=for-the-badge" alt="jamiros" /></a> </p>
 
-- 🔭 I’m currently working on **a Python ETL for the masses**
+- 🔭 I’m currently working on **something secret 🤫**
 
-- 🌱 I’m currently learning **nodejs, Vue, React, and CockroachDB**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **creating learning resources for Data Engineers**
+- 👯 I’m looking to collaborate on **creating learning resources for Developers**
 
-- 🤝 I’m looking for help with **teaching the new generations of Data Engineers**
+- 🤝 I’m looking for help with **teaching the new generations of Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamiros](https://github.com/jamiros)
 
-- 📝 I regularly write articles on [https://medium.com/@ogramos](https://medium.com/@ogramos)
+- 📝 I ~~regularly~~ sometimes 😑 write articles on [https://medium.com/@ogramos](https://medium.com/@ogramos)
 
-- 💬 Ask me about **data engineering and tools**
+- 💬 Ask me about **data engineering, development and tools**
 
-- 📫 How to reach me **info@dataengineers.ca**
+- 📫 How to reach me **info@dataengineers.ca or og.ramos@ogramos.com**
 
 - 📄 Know about my experiences [http://ogramos.com](http://ogramos.com)
 
