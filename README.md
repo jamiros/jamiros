@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **something secret 🤫**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **RAG Model**
 
 - 👯 I’m looking to collaborate on **creating learning resources for Developers**
 
