@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Og Ramos</h1>
-<h3 align="center">I'm a Engineering Manager, Data Architect, BI Developer, Tinkerer, Writer and Teacher!!</h3>
+<h3 align="center">I'm a Principal Data Engineer, Engineering Manager, Data Architect, BI Developer, Tinkerer, Writer and Teacher!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiros&label=Profile%20views&color=0e75b6&style=flat" alt="jamiros" /> </p>
 
@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamiros](https://github.com/jamiros)
 
-- 📝 I ~~regularly~~ sometimes 😑 write articles on [https://medium.com/@ogramos](https://medium.com/@ogramos)
+- 📝 I ~~regularly~~ ~~sometimes~~ almost never 😑 write articles on [https://medium.com/@ogramos](https://medium.com/@ogramos)
 
 - 💬 Ask me about **data engineering, development and tools**
 
-- 📫 How to reach me **info@dataengineers.ca or og.ramos@ogramos.com**
+- 📫 How to reach me **~~info@dataengineers.ca~~ <-- deprecated or og.ramos@ogramos.com**
 
 - 📄 Know about my experiences [http://ogramos.com](http://ogramos.com)
 
