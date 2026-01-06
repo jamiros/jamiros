@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Og Ramos</h1>
-<h3 align="center">I'm a Principal Data Engineer, Engineering Manager, Data Architect, BI Developer, Tinkerer, Writer and Teacher!!</h3>
+<h3 align="center">I'm a Senior Principal Data Engineer, Data Architect, Engineering Manager, BI Developer, Tinkerer, Writer and Teacher!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiros&label=Profile%20views&color=0e75b6&style=flat" alt="jamiros" /> </p>
 
